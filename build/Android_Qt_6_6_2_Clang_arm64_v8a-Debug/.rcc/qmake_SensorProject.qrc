@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SensorProject">
+    <file alias="qmldir">C:/Users/marco/Documents/AAA Personal Code/SensorProject/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/SensorProject/qmldir</file>
+  </qresource>
+</RCC>
+

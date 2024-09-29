@@ -1,0 +1,232 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a699ead25a20bed2b79a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SensorProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-9a56cf431f196f4cee0b.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-bd04b913e94762534ffa.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-dcbfca8d820434ce0451.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b8a3e42a5a746cf53cb0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9144f2055cea9b4a730f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-27404b631f3ba0ddf5da.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-a67835898b431638555a.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-926e7fa823b2ac07a8e1.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject-Debug-f0a9f2f347b71af54e5b.json",
+					"name" : "appSensorProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_autogen-Debug-d52236d9a15a78984db0.json",
+					"name" : "appSensorProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_autogen_timestamp_deps-Debug-ce350c8fdd7b4e4dd8d5.json",
+					"name" : "appSensorProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_make_aab-Debug-d9ed6cee0b0019ce99a8.json",
+					"name" : "appSensorProject_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_make_apk-Debug-dbe425c9d31a22f09407.json",
+					"name" : "appSensorProject_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_prepare_apk_dir-Debug-5a7b8ca5b727bc957261.json",
+					"name" : "appSensorProject_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_qmllint-Debug-660f40fb44250f04bc83.json",
+					"name" : "appSensorProject_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_qmllint_json-Debug-ffefe3d3ac6e84dd2a60.json",
+					"name" : "appSensorProject_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_qmllint_module-Debug-8e7baffbb0a01347009a.json",
+					"name" : "appSensorProject_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_qmltyperegistration-Debug-c5a3a58ae7a8dbfb9ebe.json",
+					"name" : "appSensorProject_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSensorProject_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSensorProject_tooling-Debug-3c87170fe7957a3daf61.json",
+					"name" : "appSensorProject_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-dc7a41a64b6d9a5ee25e.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/marco/Documents/AAA Personal Code/SensorProject/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug",
+		"source" : "C:/Users/marco/Documents/AAA Personal Code/SensorProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
