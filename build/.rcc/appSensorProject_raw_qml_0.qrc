@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/SensorProject/">
+    <file alias="Main.qml">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/Main.qml</file>
+    <file alias="images/Bluebubble.svg">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/images/Bluebubble.svg</file>
+    <file alias="android/AndroidManifest.xml">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/AndroidManifest.xml</file>
+    <file alias="android/build.gradle">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/build.gradle</file>
+    <file alias="android/res/values/libs.xml">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/res/values/libs.xml</file>
+    <file alias="android/res/xml/qtprovider_paths.xml">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/res/xml/qtprovider_paths.xml</file>
+    <file alias="android/gradle/wrapper/gradle-wrapper.jar">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/gradle/wrapper/gradle-wrapper.jar</file>
+    <file alias="android/gradle/wrapper/gradle-wrapper.properties">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/gradle/wrapper/gradle-wrapper.properties</file>
+    <file alias="android/gradle.properties">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/gradle.properties</file>
+    <file alias="android/gradlew">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/gradlew</file>
+    <file alias="android/gradlew.bat">C:/Users/marco/Documents/AAA Personal Code/SensorProject/practice-sensor-program/android/gradlew.bat</file>
+  </qresource>
+</RCC>
+

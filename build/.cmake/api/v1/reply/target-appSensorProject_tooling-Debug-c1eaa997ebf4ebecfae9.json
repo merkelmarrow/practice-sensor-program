@@ -1,0 +1,245 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.6.2/android_arm64_v8a/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 716,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 633,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2440,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2443,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "appSensorProject_tooling::@6890427a1f51a3e7e1df",
+	"name" : "appSensorProject_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/Main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/images/Bluebubble.svg",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/AndroidManifest.xml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/build.gradle",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/res/values/libs.xml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/res/xml/qtprovider_paths.xml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle/wrapper/gradle-wrapper.jar",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle/wrapper/gradle-wrapper.properties",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle.properties",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradlew",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradlew.bat",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/Main.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/images/Bluebubble.svg.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/AndroidManifest.xml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/build.gradle.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/res/values/libs.xml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/res/xml/qtprovider_paths.xml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle/wrapper/gradle-wrapper.jar.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle/wrapper/gradle-wrapper.properties.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradle.properties.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradlew.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/SensorProject/android/gradlew.bat.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}
