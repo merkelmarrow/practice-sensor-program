@@ -47,7 +47,7 @@ Window {
 
     Image {
         id: bubble
-        source: "Bluebubble.svg"
+        source: "images/Bluebubble.svg"
         smooth: true
 
         property real centerX: mainWindow.width / 2
