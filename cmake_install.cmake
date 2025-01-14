@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libappSensorProject_arm64-v8a.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE MODULE FILES "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/libappSensorProject_arm64-v8a.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE MODULE FILES "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/libappSensorProject_arm64-v8a.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libappSensorProject_arm64-v8a.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libappSensorProject_arm64-v8a.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -66,5 +66,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

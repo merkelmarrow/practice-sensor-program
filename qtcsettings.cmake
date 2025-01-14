@@ -3,7 +3,7 @@
 set("ANDROID_STL" "c++_shared" CACHE "STRING" "" FORCE)
 set("ANDROID_USE_LEGACY_TOOLCHAIN_FILE" "OFF" CACHE "BOOL" "" FORCE)
 set("CMAKE_CXX_COMPILER" "C:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_PROJECT_INCLUDE_BEFORE" "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.qtc/package-manager/auto-setup.cmake" CACHE "FILEPATH" "" FORCE)
+set("CMAKE_PROJECT_INCLUDE_BEFORE" "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.qtc/package-manager/auto-setup.cmake" CACHE "FILEPATH" "" FORCE)
 set("CMAKE_TOOLCHAIN_FILE" "C:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake" CACHE "FILEPATH" "" FORCE)
 set("ANDROID_ABI" "arm64-v8a" CACHE "STRING" "" FORCE)
 set("CMAKE_BUILD_TYPE" "Debug" CACHE "STRING" "" FORCE)

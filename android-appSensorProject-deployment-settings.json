@@ -29,7 +29,7 @@
    "architectures": { "arm64-v8a":"aarch64-linux-android" },
    "android-package-source-directory": "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/android",
    "application-binary": "appSensorProject",
-   "qml-import-paths" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/SensorProject,C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build",
+   "qml-import-paths" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/SensorProject,C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program",
    "qml-root-path" : [ "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program","C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program" ],
    "qml-importscanner-binary" : "C:/Qt/6.6.2/mingw_64/./bin/qmlimportscanner.exe",
    "rcc-binary" : "C:/Qt/6.6.2/mingw_64/./bin/rcc.exe",

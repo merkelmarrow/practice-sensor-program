@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SensorProject">
+    <file alias="qmldir">C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/SensorProject/qmldir</file>
+  </qresource>
+</RCC>
+

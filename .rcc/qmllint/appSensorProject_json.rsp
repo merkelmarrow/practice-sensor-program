@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program
+-I
+C:/Qt/6.6.2/android_arm64_v8a/./qml
+--resource
+C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qmake_SensorProject.qrc
+--resource
+C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/appSensorProject_raw_qml_0.qrc
+C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/Main.qml
+--json
+C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_qmllint.json

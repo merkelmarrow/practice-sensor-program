@@ -1,14 +1,14 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appSensorProject_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build",
+	"BUILD_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program",
 	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
 		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeLists.txt",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.qtc/package-manager/auto-setup.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake",
 		"C:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
 		"C:/Android/Sdk/ndk/25.1.8937393/build/cmake/adjust_api_level.cmake",
@@ -19,7 +19,7 @@
 		"C:/Android/Sdk/ndk/25.1.8937393/build/cmake/abis.cmake",
 		"C:/Android/Sdk/ndk/25.1.8937393/build/cmake/hooks/post/Android-Determine.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystem.cmake.in",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/CMakeFiles/3.29.3/CMakeSystem.cmake",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeFiles/3.29.3/CMakeSystem.cmake",
 		"C:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake",
@@ -80,7 +80,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-FindBinUtils.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake",
@@ -115,7 +115,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"C:/Qt/6.6.2/android_arm64_v8a/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.6.2/android_arm64_v8a/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.6.2/android_arm64_v8a/lib/cmake/Qt6/Qt6Config.cmake",
@@ -1002,12 +1002,12 @@
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appSensorProject_autogen/deps",
+	"DEP_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "appSensorProject_autogen/timestamp",
 	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appSensorProject_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appSensorProject_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -1075,27 +1075,27 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp",
 		"--target=aarch64-none-linux-android23"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appSensorProject_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appSensorProject_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qmlcache/appSensorProject_Main_qml.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qrc_appSensorProject_raw_qml_0.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qrc_qmake_SensorProject.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appsensorproject_qmltyperegistrations.cpp"
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qmlcache/appSensorProject_Main_qml.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qrc_appSensorProject_raw_qml_0.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qrc_qmake_SensorProject.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appsensorproject_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 6,
-	"PARSE_CACHE_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/CMakeFiles/appSensorProject_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeFiles/appSensorProject_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.6.2/mingw_64/./bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 6,
-	"SETTINGS_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/CMakeFiles/appSensorProject_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/CMakeFiles/appSensorProject_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qmlcache/appSensorProject_qmlcache_loader.cpp",
+			"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qmlcache/appSensorProject_qmlcache_loader.cpp",
 			"MU",
 			null
 		],
@@ -1109,10 +1109,10 @@
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : 
 	[
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qmlcache/appSensorProject_Main_qml.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qrc_appSensorProject_raw_qml_0.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/.rcc/qrc_qmake_SensorProject.cpp",
-		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/build/appsensorproject_qmltyperegistrations.cpp"
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qmlcache/appSensorProject_Main_qml.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qrc_appSensorProject_raw_qml_0.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/.rcc/qrc_qmake_SensorProject.cpp",
+		"C:/Users/marco/Documents/AAAPersonalCode/SensorProject/practice-sensor-program/appsensorproject_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : false,
